@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17d8b1a5-8cbd-443a-8d2f-66ef72aea06d" name="Default" comment="" />
+    <list default="true" id="17d8b1a5-8cbd-443a-8d2f-66ef72aea06d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bracketimport/LabelReader.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bracketimport/ReadNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bracketimport/TreeReader.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bracketimport/TreebankReader.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/decode/Decode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/grammar/Event.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/grammar/Grammar.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/grammar/LexicalEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/grammar/Rule.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/BinaryRule.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/CKYParser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/CommandLineUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/ConcatenationIterator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/Constituent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/Counter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/CounterMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/EnglishPennTreebankParseEvaluator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/GrammarSpliter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/Lexicon.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/MapFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/MarinaCKYParser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/MarinaGrammar.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/MarinaTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/MyCollection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/MyVal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/NumberRangeFileFilter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/PennTreebankReader.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/SimpleLexicon.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/TreeAnnotations.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/Trees.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/UnaryClosure.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/UnaryRule.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marina_CKY/Utils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/parse/MyBinarizer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/parse/Parse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train/Train.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tree/Node.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tree/Terminal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tree/Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/treebank/Treebank.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils/CountMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils/LineReader.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils/LineWriter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils/viewtree" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../test/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/parse/Parse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+              <caret line="40" column="28" lean-forward="false" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -31,6 +79,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -264,12 +318,20 @@
       <updated>1527795077156</updated>
       <workItem from="1527795080257" duration="2983000" />
       <workItem from="1527799054617" duration="5136000" />
-      <workItem from="1527843086916" duration="392000" />
+      <workItem from="1527843086916" duration="550000" />
     </task>
+    <task id="LOCAL-00001" summary="m">
+      <created>1527843517971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527843517971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8511000" />
+    <option name="totallyTimeSpent" value="8669000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -278,9 +340,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.49166667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.49583334" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -309,6 +371,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="m" />
+    <option name="LAST_COMMIT_MESSAGE" value="m" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -666,7 +730,7 @@
     <entry file="file://$PROJECT_DIR$/parse/Parse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <caret line="40" column="28" lean-forward="false" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
           <folding />
         </state>
       </provider>
